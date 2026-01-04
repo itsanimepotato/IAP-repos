@@ -1,0 +1,21 @@
+[submodule "personal-repos/personal-coding"]
+	path = personal-repos/personal-coding
+	url = git@github.com:itsanimepotato/personal-coding.git
+[submodule "personal-repos/personal-youtube"]
+	path = personal-repos/personal-youtube
+	url = git@github.com:itsanimepotato/personal-youtube.git
+[submodule "personal-repos/personal-music"]
+	path = personal-repos/personal-music
+	url = git@github.com:itsanimepotato/personal-music.git
+[submodule "obsidian-notes"]
+	path = obsidian-notes
+	url = git@github.com:itsanimepotato/obsidian-notes.git
+[submodule "climate-cuisine"]
+	path = climate-cuisine
+	url = git@github.com:itsanimepotato/climate-cuisine.git
+[submodule "stuy-sky-weather-bot"]
+	path = stuy-sky-weather-bot
+	url = git@github.com:itsanimepotato/stuy-sky-weather-bot.git
+[submodule "school-material"]
+	path = school-material
+	url = git@github.com:itsanimepotato/school-material.git
